@@ -1,6 +1,6 @@
 # Vy's Grammar Path (Unit 1–4): hướng dẫn cài đặt
 
-**Link cho Vy:** <https://miathoday.github.io/vy-grammar/>
+**Link cho Vy:** <https://yumienglish.github.io/vy-grammar/>
 Thư mục trên máy: `D:\vy-grammar`, không liên quan Syllabus hay grammar-homework).
 
 Trang luyện ngữ pháp riêng cho Vy. Hệ thống này **tách hẳn** khỏi web app quản lý lớp:
