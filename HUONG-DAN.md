@@ -1,7 +1,7 @@
 # Vy's Grammar Path (Unit 1–4): hướng dẫn cài đặt
 
 **Link cho Vy:** <https://yumienglish.github.io/vy-grammar/>
-Thư mục trên máy: `D:\vy-grammar`, không liên quan Syllabus hay grammar-homework).
+Thư mục trên máy: `D:\8 Web bai tap\vy-grammar`, không liên quan Syllabus hay grammar-homework).
 
 Trang luyện ngữ pháp riêng cho Vy. Hệ thống này **tách hẳn** khỏi web app quản lý lớp:
 không ghi vào Google Sheet, không đồng bộ, không tạo báo cáo. Nó chỉ làm hai việc:
